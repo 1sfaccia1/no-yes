@@ -1,0 +1,16 @@
+{
+  "name": "no-yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Chad Wittman",
+  "license": "MIT"
+}
